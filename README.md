@@ -1,4 +1,4 @@
-# aprendizaje-supervizado-tarea
+# aprendizaje-supervisado-tarea
 ## tarea inteligencia 2020
 
 
